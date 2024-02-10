@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **DSA in a Java**
 
 - 💬 Ask me about **C,C++ and Java**
-- 
+  
 - 📫 How to reach me **patilrupesh0808@gmail.com**
 
 - ⚡ Fun fact **I am funny**
